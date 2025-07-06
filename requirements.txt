@@ -1,0 +1,5 @@
+yfinance 
+nsetools 
+pandas
+mysql-connector-python
+
